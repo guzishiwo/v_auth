@@ -43,7 +43,6 @@ def jd_auth(request):
                 code=rsp_parms.code,
                 expires_in=rsp_parms.expires_in,
                 refresh_token=rsp_parms.refresh_token,
-                scope=rsp_parms.scope,
                 time=rsp_parms.time,
                 token_type=rsp_parms.token_type,
                 uid=rsp_parms.uid,
