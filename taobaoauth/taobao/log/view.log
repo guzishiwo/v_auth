@@ -1,0 +1,1324 @@
+INFO 2016-05-31 18:18:42,465 https://oauth.taobao.com/authorize?redirect_uri=http%3A//localhost%3A8000/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:07:32,258 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:12:47,232 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:14:57,736 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:16:33,557 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:17:01,997 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:17:34,183 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:20:40,020 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:33:13,554 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:33:25,234 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 13:34:01,613 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:12:27,962 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:12:55,100 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:13:34,708 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:14:26,496 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:14:49,658 request.Get,{}
+INFO 2016-06-01 14:14:49,658 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 14:14:49,658 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:14:49,670 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:19:26,820 request.Get,{}
+INFO 2016-06-01 14:19:26,820 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 14:19:26,820 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:19:26,823 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:20:35,966 request.Get,{}
+INFO 2016-06-01 14:20:35,966 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 14:20:35,966 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:20:35,968 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:25:34,942 request.Get,{}
+INFO 2016-06-01 14:25:34,942 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 14:25:34,942 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:25:34,945 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:27:35,085 request.Get,{}
+INFO 2016-06-01 14:27:35,086 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 14:27:35,086 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:27:35,088 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:28:05,272 request.Get,{}
+INFO 2016-06-01 14:28:05,272 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 14:28:05,273 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:28:05,275 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:29:10,588 request.Get,{}
+INFO 2016-06-01 14:29:10,588 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:29:10,591 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-01 14:29:26,242 request.Get,{}
+INFO 2016-06-01 14:29:26,243 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:35:40,725 request.Get,{}
+INFO 2016-06-01 14:35:40,725 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:45:31,343 request.Get,{}
+INFO 2016-06-01 14:45:31,344 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:49:10,129 request.Get,{}
+INFO 2016-06-01 14:49:10,129 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:49:18,070 request.Get,{}
+INFO 2016-06-01 14:49:18,070 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:53:49,239 request.Get,{}
+INFO 2016-06-01 14:53:49,239 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 14:56:57,920 request.Get,{}
+INFO 2016-06-01 14:56:57,920 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:00:48,989 request.Get,{}
+INFO 2016-06-01 15:00:48,989 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:02:33,447 request.Get,{}
+INFO 2016-06-01 15:02:33,448 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:02:33,449 New create token success 
+INFO 2016-06-01 15:08:52,728 request.Get,{}
+INFO 2016-06-01 15:08:52,728 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:09:01,122 request.Get,{}
+INFO 2016-06-01 15:09:01,122 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:09:01,124 New create token success 
+INFO 2016-06-01 15:41:23,502 --------------------auth------------------
+INFO 2016-06-01 15:41:23,502 request.Get,{}
+INFO 2016-06-01 15:41:23,502 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:41:23,504 New create token success 
+INFO 2016-06-01 15:42:25,355 --------------------auth------------------
+INFO 2016-06-01 15:42:25,355 request.Get,{}
+INFO 2016-06-01 15:42:25,355 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:42:25,357 New create token success 
+INFO 2016-06-01 15:42:25,357 already exist taobao_id 
+INFO 2016-06-01 15:42:25,358 token.user_id = None
+INFO 2016-06-01 15:49:28,487 --------------------auth------------------
+INFO 2016-06-01 15:49:28,487 request.Get,{}
+INFO 2016-06-01 15:49:28,488 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:49:28,489 New create token success 
+INFO 2016-06-01 15:49:28,489 already exist taobao_id 
+INFO 2016-06-01 15:49:28,490 token.user_id = None
+INFO 2016-06-01 15:49:56,985 --------------------auth------------------
+INFO 2016-06-01 15:49:56,985 request.Get,{}
+INFO 2016-06-01 15:49:56,986 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:49:56,987 New create token success 
+INFO 2016-06-01 15:49:56,987 already exist taobao_id 
+INFO 2016-06-01 15:49:56,988 token.user_id = None
+INFO 2016-06-01 15:53:28,081 --------------------auth------------------
+INFO 2016-06-01 15:53:28,081 request.Get,{}
+INFO 2016-06-01 15:53:28,081 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 15:53:28,083 New create token success 
+INFO 2016-06-01 15:53:28,083 already exist taobao_id 
+INFO 2016-06-01 15:53:28,084 token.user_id = None
+INFO 2016-06-01 16:41:13,334 --------------------auth------------------
+INFO 2016-06-01 16:41:13,335 request.Get,{}
+INFO 2016-06-01 16:41:13,335 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 16:41:13,336 Token matching query does not exist.
+INFO 2016-06-01 16:41:13,336 New create token success 
+INFO 2016-06-01 16:41:13,336 already exist taobao_id 
+INFO 2016-06-01 16:41:13,337 token.user_id = None
+INFO 2016-06-01 18:09:36,507 --------------------auth------------------
+INFO 2016-06-01 18:09:36,507 request.Get,{}
+INFO 2016-06-01 18:09:36,507 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:09:36,509 New create token success 
+INFO 2016-06-01 18:09:36,509 already exist taobao_id 
+INFO 2016-06-01 18:09:36,510 token.user_id = None
+INFO 2016-06-01 18:09:59,420 --------------------auth------------------
+INFO 2016-06-01 18:09:59,420 request.Get,{}
+INFO 2016-06-01 18:09:59,421 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:09:59,422 New create token success 
+INFO 2016-06-01 18:09:59,422 already exist taobao_id 
+INFO 2016-06-01 18:09:59,423 token.user_id = None
+INFO 2016-06-01 18:15:00,193 --------------------auth------------------
+INFO 2016-06-01 18:15:00,193 request.Get,{}
+INFO 2016-06-01 18:15:00,193 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:15:00,193 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:15:00,193 already exist taobao_id 
+INFO 2016-06-01 18:15:00,193 'NoneType' object has no attribute 'screen_name'
+INFO 2016-06-01 18:15:00,194 New create token success 
+INFO 2016-06-01 18:15:00,194 token.user_id = None
+INFO 2016-06-01 18:16:57,753 --------------------auth------------------
+INFO 2016-06-01 18:16:57,753 request.Get,{}
+INFO 2016-06-01 18:16:57,753 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:16:57,754 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:16:57,754 already exist taobao_id 
+INFO 2016-06-01 18:16:57,754 'NoneType' object has no attribute 'screen_name'
+INFO 2016-06-01 18:16:57,754 New create token success 
+INFO 2016-06-01 18:16:57,755 token.user_id = None
+INFO 2016-06-01 18:27:54,308 --------------------auth------------------
+INFO 2016-06-01 18:27:54,308 request.Get,{}
+INFO 2016-06-01 18:27:54,308 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:27:54,308 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:27:54,309 Token matching query does not exist.
+INFO 2016-06-01 18:27:54,310 New create token success 
+INFO 2016-06-01 18:27:54,310 token.user_id = None
+INFO 2016-06-01 18:28:04,225 --------------------auth------------------
+INFO 2016-06-01 18:28:04,225 request.Get,{}
+INFO 2016-06-01 18:28:04,225 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:28:04,225 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:28:04,226 Token matching query does not exist.
+INFO 2016-06-01 18:28:04,227 New create token success 
+INFO 2016-06-01 18:28:04,227 token.user_id = None
+INFO 2016-06-01 18:28:12,111 --------------------auth------------------
+INFO 2016-06-01 18:28:12,111 request.Get,{}
+INFO 2016-06-01 18:28:12,111 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:28:12,111 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:28:12,112 Token matching query does not exist.
+INFO 2016-06-01 18:28:12,113 New create token success 
+INFO 2016-06-01 18:28:12,113 token.user_id = None
+INFO 2016-06-01 18:28:17,821 --------------------auth------------------
+INFO 2016-06-01 18:28:17,821 request.Get,{}
+INFO 2016-06-01 18:28:17,821 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:28:17,821 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:28:17,822 Token matching query does not exist.
+INFO 2016-06-01 18:28:17,823 New create token success 
+INFO 2016-06-01 18:28:17,823 token.user_id = None
+INFO 2016-06-01 18:28:27,234 --------------------auth------------------
+INFO 2016-06-01 18:28:27,234 request.Get,{}
+INFO 2016-06-01 18:28:27,298 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-01 18:28:27,298 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-01 18:28:27,299 Token matching query does not exist.
+INFO 2016-06-01 18:28:27,300 New create token success 
+INFO 2016-06-01 18:28:27,300 token.user_id = None
+INFO 2016-06-02 09:07:33,968 --------------------auth------------------
+INFO 2016-06-02 09:07:33,992 request.Get,{}
+INFO 2016-06-02 09:07:33,992 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:07:33,992 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:07:33,993 Token matching query does not exist.
+INFO 2016-06-02 09:07:33,994 New create token success 
+INFO 2016-06-02 09:07:33,994 token.user_id = None
+INFO 2016-06-02 09:08:06,503 --------------------auth------------------
+INFO 2016-06-02 09:08:06,503 request.Get,{}
+INFO 2016-06-02 09:08:06,503 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:08:06,504 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:08:06,504 Token matching query does not exist.
+INFO 2016-06-02 09:08:06,505 token.user_id = None
+INFO 2016-06-02 09:09:12,689 --------------------auth------------------
+INFO 2016-06-02 09:09:12,689 request.Get,{}
+INFO 2016-06-02 09:09:12,689 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:09:12,689 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:09:12,690 Token matching query does not exist.
+INFO 2016-06-02 09:09:12,691 token.user_id = None
+INFO 2016-06-02 09:15:12,731 --------------------auth------------------
+INFO 2016-06-02 09:15:12,731 request.Get,{}
+INFO 2016-06-02 09:15:12,731 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:15:12,731 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:15:12,732 Token matching query does not exist.
+INFO 2016-06-02 09:15:12,732 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:15:12,733 token.user_id = None
+INFO 2016-06-02 09:16:38,071 --------------------auth------------------
+INFO 2016-06-02 09:16:38,072 request.Get,{}
+INFO 2016-06-02 09:16:38,072 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:16:38,072 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:16:38,073 Token matching query does not exist.
+INFO 2016-06-02 09:16:38,073 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:16:38,073 token.user_id = None
+INFO 2016-06-02 09:18:14,631 --------------------auth------------------
+INFO 2016-06-02 09:18:14,631 request.Get,{}
+INFO 2016-06-02 09:18:14,631 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:18:14,632 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:18:14,633 Token matching query does not exist.
+INFO 2016-06-02 09:18:14,633 oauth_id=1, screen_name=guzi, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:25:38,195 --------------------auth------------------
+INFO 2016-06-02 09:25:38,195 request.Get,{}
+INFO 2016-06-02 09:25:38,195 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:25:38,195 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:25:38,196 Token matching query does not exist.
+INFO 2016-06-02 09:25:38,196 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:26:38,708 --------------------auth------------------
+INFO 2016-06-02 09:26:38,708 request.Get,{}
+INFO 2016-06-02 09:26:38,709 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:26:38,709 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:26:38,710 Token matching query does not exist.
+INFO 2016-06-02 09:26:38,710 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:26:53,020 --------------------auth------------------
+INFO 2016-06-02 09:26:53,020 request.Get,{}
+INFO 2016-06-02 09:26:53,021 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:26:53,021 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:26:53,022 Token matching query does not exist.
+INFO 2016-06-02 09:26:53,022 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:26:53,022 New create token success 
+INFO 2016-06-02 09:28:11,781 --------------------auth------------------
+INFO 2016-06-02 09:28:11,781 request.Get,{}
+INFO 2016-06-02 09:28:11,781 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:11,781 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:28:11,782 Token matching query does not exist.
+INFO 2016-06-02 09:28:11,782 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:11,783 New create token success 
+INFO 2016-06-02 09:28:11,783 token.user_id = None
+INFO 2016-06-02 09:28:25,981 --------------------auth------------------
+INFO 2016-06-02 09:28:25,982 request.Get,{}
+INFO 2016-06-02 09:28:25,982 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:25,982 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:28:25,983 Token matching query does not exist.
+INFO 2016-06-02 09:28:25,983 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:25,984 New create token success 
+INFO 2016-06-02 09:28:25,984 token.user_id = None
+INFO 2016-06-02 09:28:30,847 --------------------auth------------------
+INFO 2016-06-02 09:28:30,847 request.Get,{}
+INFO 2016-06-02 09:28:30,848 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:30,848 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:28:30,849 Token matching query does not exist.
+INFO 2016-06-02 09:28:30,849 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:30,849 New create token success 
+INFO 2016-06-02 09:28:30,850 token.user_id = None
+INFO 2016-06-02 09:28:34,674 --------------------auth------------------
+INFO 2016-06-02 09:28:34,674 request.Get,{}
+INFO 2016-06-02 09:28:34,675 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:34,675 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:28:34,676 Token matching query does not exist.
+INFO 2016-06-02 09:28:34,676 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:34,676 New create token success 
+INFO 2016-06-02 09:28:34,676 token.user_id = None
+INFO 2016-06-02 09:28:41,011 --------------------auth------------------
+INFO 2016-06-02 09:28:41,012 request.Get,{}
+INFO 2016-06-02 09:28:41,012 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:41,012 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:28:41,013 Token matching query does not exist.
+INFO 2016-06-02 09:28:41,013 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:41,014 New create token success 
+INFO 2016-06-02 09:28:41,014 token.user_id = None
+INFO 2016-06-02 09:28:44,382 --------------------auth------------------
+INFO 2016-06-02 09:28:44,382 request.Get,{}
+INFO 2016-06-02 09:28:44,382 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:44,382 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:28:44,383 Token matching query does not exist.
+INFO 2016-06-02 09:28:44,383 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:28:44,384 New create token success 
+INFO 2016-06-02 09:28:44,384 token.user_id = None
+INFO 2016-06-02 09:29:02,269 --------------------auth------------------
+INFO 2016-06-02 09:29:02,270 request.Get,{}
+INFO 2016-06-02 09:29:02,270 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:29:02,270 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:29:02,271 Token matching query does not exist.
+INFO 2016-06-02 09:29:02,271 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:29:02,271 New create token success 
+INFO 2016-06-02 09:29:02,272 token.user_id = None
+INFO 2016-06-02 09:31:20,181 --------------------auth------------------
+INFO 2016-06-02 09:31:20,181 request.Get,{}
+INFO 2016-06-02 09:31:20,182 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:31:20,182 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:31:20,183 Token matching query does not exist.
+INFO 2016-06-02 09:31:20,183 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:31:20,184 New create token success 
+INFO 2016-06-02 09:31:20,184 token.user_id = None
+INFO 2016-06-02 09:36:34,573 --------------------auth------------------
+INFO 2016-06-02 09:36:34,573 request.Get,{}
+INFO 2016-06-02 09:36:34,573 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:36:34,573 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:36:34,574 Token matching query does not exist.
+INFO 2016-06-02 09:36:34,574 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:36:34,575 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:36:34,575 New create token success 
+INFO 2016-06-02 09:36:34,575 token.user_id = None
+INFO 2016-06-02 09:37:09,941 --------------------auth------------------
+INFO 2016-06-02 09:37:09,941 request.Get,{}
+INFO 2016-06-02 09:37:09,941 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:37:09,941 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 09:37:09,943 Token matching query does not exist.
+INFO 2016-06-02 09:37:09,943 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 09:37:09,943 New create token success 
+INFO 2016-06-02 09:37:09,943 token.user_id = None
+INFO 2016-06-02 10:10:49,394 --------------------auth------------------
+INFO 2016-06-02 10:10:49,406 request.Get,{}
+INFO 2016-06-02 10:10:49,406 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:10:49,406 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:10:49,408 Token matching query does not exist.
+INFO 2016-06-02 10:10:49,408 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:10:49,409 New create token success 
+INFO 2016-06-02 10:10:49,409 token.user_id = None
+INFO 2016-06-02 10:11:41,594 --------------------auth------------------
+INFO 2016-06-02 10:11:41,594 request.Get,{}
+INFO 2016-06-02 10:11:41,594 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:11:41,594 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:11:41,595 Token matching query does not exist.
+INFO 2016-06-02 10:11:41,596 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:11:41,596 New create token success 
+INFO 2016-06-02 10:11:41,596 token.user_id = None
+INFO 2016-06-02 10:12:36,470 --------------------auth------------------
+INFO 2016-06-02 10:12:36,470 request.Get,{}
+INFO 2016-06-02 10:12:36,471 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:12:36,471 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:12:36,472 Token matching query does not exist.
+INFO 2016-06-02 10:12:36,472 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:12:36,472 New create token success 
+INFO 2016-06-02 10:12:36,473 token.user_id = None
+INFO 2016-06-02 10:13:53,519 --------------------auth------------------
+INFO 2016-06-02 10:13:53,519 request.Get,{}
+INFO 2016-06-02 10:13:53,519 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:13:53,519 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:13:53,520 Token matching query does not exist.
+INFO 2016-06-02 10:13:53,521 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:13:53,521 New create token success 
+INFO 2016-06-02 10:13:53,521 token.user_id = None
+INFO 2016-06-02 10:14:57,065 --------------------auth------------------
+INFO 2016-06-02 10:14:57,065 request.Get,{}
+INFO 2016-06-02 10:14:57,065 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:14:57,065 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:14:57,066 Token matching query does not exist.
+INFO 2016-06-02 10:14:57,068 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:14:57,068 New create token success 
+INFO 2016-06-02 10:14:57,068 token.user_id = None
+INFO 2016-06-02 10:16:38,133 --------------------auth------------------
+INFO 2016-06-02 10:16:38,133 request.Get,{}
+INFO 2016-06-02 10:16:38,134 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:16:38,134 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:16:38,135 Token matching query does not exist.
+INFO 2016-06-02 10:16:38,136 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:16:38,136 New create token success 
+INFO 2016-06-02 10:16:38,136 token.user_id = None
+INFO 2016-06-02 10:16:41,155 --------------------auth------------------
+INFO 2016-06-02 10:16:41,155 request.Get,{}
+INFO 2016-06-02 10:16:41,155 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:16:41,155 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:16:41,156 Token matching query does not exist.
+INFO 2016-06-02 10:16:41,157 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:16:41,157 New create token success 
+INFO 2016-06-02 10:16:41,157 token.user_id = None
+INFO 2016-06-02 10:27:20,721 --------------------auth------------------
+INFO 2016-06-02 10:27:20,735 request.Get,{}
+INFO 2016-06-02 10:27:20,736 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:27:20,736 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:27:20,737 Token matching query does not exist.
+INFO 2016-06-02 10:27:20,738 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:27:20,738 New create token success 
+INFO 2016-06-02 10:27:20,738 token.user_id = None
+INFO 2016-06-02 10:28:44,273 --------------------auth------------------
+INFO 2016-06-02 10:28:44,274 request.Get,{}
+INFO 2016-06-02 10:28:44,274 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:28:44,274 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:28:44,275 Token matching query does not exist.
+INFO 2016-06-02 10:28:44,275 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:28:44,275 New create token success 
+INFO 2016-06-02 10:28:44,276 token.user_id = None
+INFO 2016-06-02 10:29:32,930 --------------------auth------------------
+INFO 2016-06-02 10:29:32,930 request.Get,{}
+INFO 2016-06-02 10:29:32,930 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:29:32,930 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:29:32,931 Token matching query does not exist.
+INFO 2016-06-02 10:29:32,932 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:29:32,932 New create token success 
+INFO 2016-06-02 10:29:32,932 token.user_id = None
+INFO 2016-06-02 10:31:12,964 --------------------auth------------------
+INFO 2016-06-02 10:31:12,964 request.Get,{}
+INFO 2016-06-02 10:31:12,964 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:31:12,964 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:31:12,965 Token matching query does not exist.
+INFO 2016-06-02 10:31:12,966 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:31:12,966 New create token success 
+INFO 2016-06-02 10:31:12,966 token.user_id = None
+INFO 2016-06-02 10:31:17,431 --------------------auth------------------
+INFO 2016-06-02 10:31:17,431 request.Get,{}
+INFO 2016-06-02 10:31:17,431 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:31:17,431 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:31:17,432 Token matching query does not exist.
+INFO 2016-06-02 10:31:17,433 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:31:17,433 New create token success 
+INFO 2016-06-02 10:31:17,433 token.user_id = None
+INFO 2016-06-02 10:31:26,792 --------------------auth------------------
+INFO 2016-06-02 10:31:26,792 request.Get,{}
+INFO 2016-06-02 10:31:26,792 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:31:26,793 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:31:26,794 Token matching query does not exist.
+INFO 2016-06-02 10:31:26,794 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:31:26,794 token.user_id = None
+INFO 2016-06-02 10:34:44,003 --------------------auth------------------
+INFO 2016-06-02 10:34:44,003 request.Get,{}
+INFO 2016-06-02 10:34:44,004 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:34:44,004 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:34:44,005 Token matching query does not exist.
+INFO 2016-06-02 10:34:44,005 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:34:44,006 token.user_id = None
+INFO 2016-06-02 10:54:12,612 --------------------auth------------------
+INFO 2016-06-02 10:54:12,612 request.Get,{}
+INFO 2016-06-02 10:54:12,612 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:54:12,612 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:54:12,613 Token matching query does not exist.
+INFO 2016-06-02 10:54:12,614 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:54:12,614 token.user_id = None
+INFO 2016-06-02 10:54:31,408 --------------------auth------------------
+INFO 2016-06-02 10:54:31,408 request.Get,{}
+INFO 2016-06-02 10:54:31,408 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:54:31,408 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:54:31,410 Token matching query does not exist.
+INFO 2016-06-02 10:54:31,411 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:54:31,411 token.user_id = None
+INFO 2016-06-02 10:55:25,824 --------------------auth------------------
+INFO 2016-06-02 10:55:25,824 request.Get,{}
+INFO 2016-06-02 10:55:25,824 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:55:25,824 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:55:25,825 Token matching query does not exist.
+INFO 2016-06-02 10:55:25,826 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:55:25,826 token.user_id = None
+INFO 2016-06-02 10:57:17,749 --------------------auth------------------
+INFO 2016-06-02 10:57:17,749 request.Get,{}
+INFO 2016-06-02 10:57:17,749 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:57:17,749 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 10:57:17,751 Token matching query does not exist.
+INFO 2016-06-02 10:57:17,751 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 10:57:17,751 token.user_id = None
+INFO 2016-06-02 11:05:41,514 --------------------auth------------------
+INFO 2016-06-02 11:05:41,515 request.Get,{}
+INFO 2016-06-02 11:05:41,515 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:05:41,515 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:05:41,516 Token matching query does not exist.
+INFO 2016-06-02 11:05:41,516 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:05:41,516 token.user_id = None
+INFO 2016-06-02 11:07:36,657 --------------------auth------------------
+INFO 2016-06-02 11:07:36,657 request.Get,{}
+INFO 2016-06-02 11:07:36,657 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:07:36,658 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:07:36,658 -----------Token Manage-----------
+INFO 2016-06-02 11:07:36,658 Token matching query does not exist.
+INFO 2016-06-02 11:07:36,659 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:07:36,659 token.user_id = None
+INFO 2016-06-02 11:09:15,465 --------------------auth------------------
+INFO 2016-06-02 11:09:15,465 request.Get,{}
+INFO 2016-06-02 11:09:15,465 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:09:15,465 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:09:15,465 -----------Token Manage-----------
+INFO 2016-06-02 11:09:15,466 Token matching query does not exist.
+INFO 2016-06-02 11:09:15,467 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:09:15,467 token.user_id = None
+INFO 2016-06-02 11:10:03,896 --------------------auth------------------
+INFO 2016-06-02 11:10:03,896 request.Get,{}
+INFO 2016-06-02 11:10:03,896 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:10:03,896 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:10:03,897 -----------Token Manage-----------
+INFO 2016-06-02 11:10:03,897 Token matching query does not exist.
+INFO 2016-06-02 11:10:03,898 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:10:03,898 New create token success 
+INFO 2016-06-02 11:10:03,898 token.user_id = None
+INFO 2016-06-02 11:10:21,628 --------------------auth------------------
+INFO 2016-06-02 11:10:21,629 request.Get,{}
+INFO 2016-06-02 11:10:21,629 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:10:21,629 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:10:21,629 -----------Token Manage-----------
+INFO 2016-06-02 11:10:21,630 Token matching query does not exist.
+INFO 2016-06-02 11:10:21,631 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:10:21,631 New create token success 
+INFO 2016-06-02 11:19:43,107 --------------------auth------------------
+INFO 2016-06-02 11:19:43,108 request.Get,{}
+INFO 2016-06-02 11:19:43,108 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:19:43,108 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:19:43,108 -----------Token Manage-----------
+INFO 2016-06-02 11:19:43,109 Token matching query does not exist.
+INFO 2016-06-02 11:19:43,110 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:19:43,110 New create token success 
+INFO 2016-06-02 11:25:41,922 --------------------auth------------------
+INFO 2016-06-02 11:25:41,922 request.Get,{}
+INFO 2016-06-02 11:25:41,923 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:25:41,923 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:25:41,923 -----------Token Manage-----------
+INFO 2016-06-02 11:25:41,923 Token matching query does not exist.
+INFO 2016-06-02 11:25:41,924 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:25:41,924 New create token success 
+INFO 2016-06-02 11:27:09,102 --------------------auth------------------
+INFO 2016-06-02 11:27:09,102 request.Get,{}
+INFO 2016-06-02 11:27:09,102 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:27:09,103 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:27:09,103 -----------Token Manage-----------
+INFO 2016-06-02 11:27:09,103 Token matching query does not exist.
+INFO 2016-06-02 11:27:09,104 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:27:09,104 New create token success 
+INFO 2016-06-02 11:51:56,275 --------------------auth------------------
+INFO 2016-06-02 11:51:56,276 request.Get,{}
+INFO 2016-06-02 11:51:56,276 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:51:56,276 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:51:56,276 -----------Token Manage-----------
+INFO 2016-06-02 11:51:56,277 Token matching query does not exist.
+INFO 2016-06-02 11:51:56,277 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:51:56,277 New create token success 
+INFO 2016-06-02 11:54:53,434 --------------------auth------------------
+INFO 2016-06-02 11:54:53,434 request.Get,{}
+INFO 2016-06-02 11:54:53,435 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:54:53,435 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 11:54:53,435 -----------Token Manage-----------
+INFO 2016-06-02 11:54:53,436 Token matching query does not exist.
+INFO 2016-06-02 11:54:53,436 oauth_id=2, screen_name=hahha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 11:54:53,436 New create token success 
+INFO 2016-06-02 12:11:23,397 --------------------auth------------------
+INFO 2016-06-02 12:11:23,397 request.Get,{}
+INFO 2016-06-02 12:11:23,397 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 12:11:23,397 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 12:11:23,397 -----------Token Manage-----------
+INFO 2016-06-02 12:11:23,399 Token matching query does not exist.
+INFO 2016-06-02 12:11:23,399 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 12:11:23,399 New create token success 
+INFO 2016-06-02 13:13:56,965 --------------------auth------------------
+INFO 2016-06-02 13:13:56,965 request.Get,{}
+INFO 2016-06-02 13:13:56,965 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 13:13:56,965 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 13:13:56,965 -----------Token Manage-----------
+INFO 2016-06-02 13:13:56,967 Token matching query does not exist.
+INFO 2016-06-02 13:13:56,968 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 13:13:56,968 New create token  record
+INFO 2016-06-02 13:13:56,968 token.user_id = None
+INFO 2016-06-02 15:28:15,074 --------------------auth------------------
+INFO 2016-06-02 15:28:15,074 request.Get,{}
+INFO 2016-06-02 15:28:15,074 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:28:15,074 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:28:15,074 -----------Token Manage-----------
+INFO 2016-06-02 15:28:15,075 Token matching query does not exist.
+INFO 2016-06-02 15:28:15,075 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:28:15,075 New create token  record
+INFO 2016-06-02 15:28:15,076 token.user_id = None
+INFO 2016-06-02 15:35:38,014 --------------------auth------------------
+INFO 2016-06-02 15:35:38,014 request.Get,<QueryDict: {}>
+INFO 2016-06-02 15:49:24,981 --------------------auth------------------
+INFO 2016-06-02 15:49:24,981 request.Get,{}
+INFO 2016-06-02 15:49:24,981 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:49:24,981 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:49:24,981 -----------Token Manage-----------
+INFO 2016-06-02 15:49:24,982 Token matching query does not exist.
+INFO 2016-06-02 15:49:24,983 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:49:24,983 New create token  record
+INFO 2016-06-02 15:49:24,983 token.user_id = None
+INFO 2016-06-02 15:50:18,849 --------------------auth------------------
+INFO 2016-06-02 15:50:18,849 request.Get,{}
+INFO 2016-06-02 15:50:18,860 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:50:18,860 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:50:18,860 -----------Token Manage-----------
+INFO 2016-06-02 15:50:18,862 Token matching query does not exist.
+INFO 2016-06-02 15:50:18,864 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:50:18,864 New create token  record
+INFO 2016-06-02 15:50:18,864 token.user_id = None
+INFO 2016-06-02 15:50:20,321 --------------------auth------------------
+INFO 2016-06-02 15:50:20,321 request.Get,{}
+INFO 2016-06-02 15:50:20,322 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:50:20,322 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:50:20,322 -----------Token Manage-----------
+INFO 2016-06-02 15:50:20,323 Token matching query does not exist.
+INFO 2016-06-02 15:50:20,323 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:50:20,323 New create token  record
+INFO 2016-06-02 15:50:20,324 token.user_id = None
+INFO 2016-06-02 15:50:26,238 --------------------auth------------------
+INFO 2016-06-02 15:50:26,239 request.Get,{}
+INFO 2016-06-02 15:50:26,239 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:50:26,239 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:50:26,239 -----------Token Manage-----------
+INFO 2016-06-02 15:50:26,240 Token matching query does not exist.
+INFO 2016-06-02 15:50:26,240 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:50:26,240 New create token  record
+INFO 2016-06-02 15:50:26,240 token.user_id = None
+INFO 2016-06-02 15:54:22,698 --------------------auth------------------
+INFO 2016-06-02 15:54:22,698 request.Get,{}
+INFO 2016-06-02 15:54:22,698 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:54:22,698 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:54:22,698 -----------Token Manage-----------
+INFO 2016-06-02 15:54:22,699 Token matching query does not exist.
+INFO 2016-06-02 15:54:22,700 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:54:22,700 New create token  record
+INFO 2016-06-02 15:54:22,700 token.user_id = None
+INFO 2016-06-02 15:55:17,582 --------------------auth------------------
+INFO 2016-06-02 15:55:17,582 request.Get,{}
+INFO 2016-06-02 15:55:17,582 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:55:17,583 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 15:55:17,583 -----------Token Manage-----------
+INFO 2016-06-02 15:55:17,584 Token matching query does not exist.
+INFO 2016-06-02 15:55:17,584 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 15:55:17,584 New create token  record
+INFO 2016-06-02 15:55:17,584 token.user_id = None
+INFO 2016-06-02 16:09:49,943 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 16:09:49,944 --------------------auth------------------
+INFO 2016-06-02 16:09:49,944 request.Get,{}
+INFO 2016-06-02 16:09:49,944 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:09:49,945 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 16:09:49,945 -----------Token Manage-----------
+INFO 2016-06-02 16:09:49,945 Token matching query does not exist.
+INFO 2016-06-02 16:09:49,946 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:09:49,946 New create token  record
+INFO 2016-06-02 16:09:49,946 token.user_id = None
+INFO 2016-06-02 16:11:16,365 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 16:11:16,366 --------------------auth------------------
+INFO 2016-06-02 16:11:16,366 request.Get,{}
+INFO 2016-06-02 16:11:16,367 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:11:16,367 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 16:11:16,367 -----------Token Manage-----------
+INFO 2016-06-02 16:11:16,368 Token matching query does not exist.
+INFO 2016-06-02 16:11:16,368 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:11:16,368 New create token  record
+INFO 2016-06-02 16:11:16,368 token.user_id = None
+INFO 2016-06-02 16:17:25,639 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 16:17:25,651 --------------------auth------------------
+INFO 2016-06-02 16:17:25,651 request.Get,{}
+INFO 2016-06-02 16:17:25,651 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:17:25,651 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 16:17:25,651 -----------Token Manage-----------
+INFO 2016-06-02 16:17:25,652 Token matching query does not exist.
+INFO 2016-06-02 16:17:25,654 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:17:25,654 New create token  record
+INFO 2016-06-02 16:17:25,654 token.user_id = None
+INFO 2016-06-02 16:24:50,142 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 16:24:50,144 --------------------auth------------------
+INFO 2016-06-02 16:24:50,303 request.Get,{}
+INFO 2016-06-02 16:24:50,304 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:24:50,304 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 16:25:23,774 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 16:25:23,776 --------------------auth------------------
+INFO 2016-06-02 16:25:23,776 request.Get,{}
+INFO 2016-06-02 16:25:23,776 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:25:23,776 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 16:25:23,776 -----------Token Manage-----------
+INFO 2016-06-02 16:25:23,777 Token matching query does not exist.
+INFO 2016-06-02 16:26:38,068 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 16:26:38,070 --------------------auth------------------
+INFO 2016-06-02 16:26:38,070 request.Get,{}
+INFO 2016-06-02 16:26:38,070 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:26:38,070 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 16:26:38,070 -----------Token Manage-----------
+INFO 2016-06-02 16:26:38,071 Token matching query does not exist.
+INFO 2016-06-02 16:26:38,071 oauth_id=None, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 16:26:38,072 New create token  record
+INFO 2016-06-02 16:26:38,072 token.user_id = None
+INFO 2016-06-02 17:16:08,488 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 17:16:08,490 --------------------auth------------------
+INFO 2016-06-02 17:16:08,490 request.Get,{}
+INFO 2016-06-02 17:16:08,490 oauth_id=123432, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:16:08,490 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:16:08,490 -----------Token Manage-----------
+INFO 2016-06-02 17:16:08,491 Token matching query does not exist.
+INFO 2016-06-02 17:16:08,491 oauth_id=123432, screen_name=haha, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:16:08,492 New create token  record
+INFO 2016-06-02 17:16:08,492 token.user_id = None
+INFO 2016-06-02 17:19:20,612 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-02 17:19:20,614 --------------------auth------------------
+INFO 2016-06-02 17:19:20,614 request.Get,{}
+INFO 2016-06-02 17:19:20,614 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:19:20,614 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:19:20,614 -----------Token Manage-----------
+INFO 2016-06-02 17:19:20,615 Token matching query does not exist.
+INFO 2016-06-02 17:19:20,616 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:19:20,616 New create token  record
+INFO 2016-06-02 17:19:20,616 token.user_id = None
+INFO 2016-06-02 17:32:44,286 --------------------auth------------------
+INFO 2016-06-02 17:32:44,286 request.Get,{}
+INFO 2016-06-02 17:32:44,286 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:44,286 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:32:44,286 -----------Token Manage-----------
+INFO 2016-06-02 17:32:44,287 Token matching query does not exist.
+INFO 2016-06-02 17:32:44,288 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:44,288 New create token  record
+INFO 2016-06-02 17:32:44,288 token.user_id = None
+INFO 2016-06-02 17:32:49,044 --------------------auth------------------
+INFO 2016-06-02 17:32:49,044 request.Get,{}
+INFO 2016-06-02 17:32:49,044 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:49,044 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:32:49,044 -----------Token Manage-----------
+INFO 2016-06-02 17:32:49,045 Token matching query does not exist.
+INFO 2016-06-02 17:32:49,046 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:49,046 New create token  record
+INFO 2016-06-02 17:32:49,046 token.user_id = None
+INFO 2016-06-02 17:32:51,172 --------------------auth------------------
+INFO 2016-06-02 17:32:51,173 request.Get,{}
+INFO 2016-06-02 17:32:51,173 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:51,173 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:32:51,173 -----------Token Manage-----------
+INFO 2016-06-02 17:32:51,174 Token matching query does not exist.
+INFO 2016-06-02 17:32:51,175 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:51,175 New create token  record
+INFO 2016-06-02 17:32:51,175 token.user_id = None
+INFO 2016-06-02 17:32:52,447 --------------------auth------------------
+INFO 2016-06-02 17:32:52,447 request.Get,{}
+INFO 2016-06-02 17:32:52,448 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:52,448 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:32:52,448 -----------Token Manage-----------
+INFO 2016-06-02 17:32:52,449 Token matching query does not exist.
+INFO 2016-06-02 17:32:52,450 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:52,450 New create token  record
+INFO 2016-06-02 17:32:52,450 token.user_id = None
+INFO 2016-06-02 17:32:53,372 --------------------auth------------------
+INFO 2016-06-02 17:32:53,372 request.Get,{}
+INFO 2016-06-02 17:32:53,372 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:53,372 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:32:53,372 -----------Token Manage-----------
+INFO 2016-06-02 17:32:53,373 Token matching query does not exist.
+INFO 2016-06-02 17:32:53,374 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:53,374 New create token  record
+INFO 2016-06-02 17:32:53,374 token.user_id = None
+INFO 2016-06-02 17:32:54,286 --------------------auth------------------
+INFO 2016-06-02 17:32:54,287 request.Get,{}
+INFO 2016-06-02 17:32:54,287 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:54,287 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:32:54,287 -----------Token Manage-----------
+INFO 2016-06-02 17:32:54,288 Token matching query does not exist.
+INFO 2016-06-02 17:32:54,289 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:32:54,289 New create token  record
+INFO 2016-06-02 17:32:54,289 token.user_id = None
+INFO 2016-06-02 17:59:53,735 --------------------auth------------------
+INFO 2016-06-02 17:59:53,735 request.Get,{}
+INFO 2016-06-02 17:59:53,735 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:59:53,736 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 17:59:53,736 -----------Token Manage-----------
+INFO 2016-06-02 17:59:53,736 Token matching query does not exist.
+INFO 2016-06-02 17:59:53,737 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 17:59:53,738 New create token  record
+INFO 2016-06-02 17:59:53,738 token.user_id = None
+INFO 2016-06-02 18:00:45,764 --------------------auth------------------
+INFO 2016-06-02 18:00:45,764 request.Get,{}
+INFO 2016-06-02 18:00:45,764 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:00:45,764 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:00:45,765 -----------Token Manage-----------
+INFO 2016-06-02 18:00:45,765 Token matching query does not exist.
+INFO 2016-06-02 18:00:45,766 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:00:45,767 New create token  record
+INFO 2016-06-02 18:00:45,767 token.user_id = None
+INFO 2016-06-02 18:19:11,411 --------------------auth------------------
+INFO 2016-06-02 18:19:11,412 request.Get,{}
+INFO 2016-06-02 18:19:11,412 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:19:11,412 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:19:11,412 -----------Token Manage-----------
+INFO 2016-06-02 18:19:11,413 Token matching query does not exist.
+INFO 2016-06-02 18:19:11,414 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:19:11,414 New create token  record
+INFO 2016-06-02 18:19:11,414 token.user_id = None
+INFO 2016-06-02 18:20:56,612 --------------------auth------------------
+INFO 2016-06-02 18:20:56,612 request.Get,{}
+INFO 2016-06-02 18:20:56,612 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:20:56,612 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:20:56,612 -----------Token Manage-----------
+INFO 2016-06-02 18:20:56,613 Token matching query does not exist.
+INFO 2016-06-02 18:20:56,614 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:20:56,614 New create token  record
+INFO 2016-06-02 18:20:56,614 token.user_id = None
+INFO 2016-06-02 18:26:32,296 --------------------auth------------------
+INFO 2016-06-02 18:26:32,297 request.Get,{}
+INFO 2016-06-02 18:26:32,297 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:26:32,297 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:26:32,297 -----------Token Manage-----------
+INFO 2016-06-02 18:26:32,298 Token matching query does not exist.
+INFO 2016-06-02 18:26:32,299 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:26:32,299 New create token  record
+INFO 2016-06-02 18:26:32,299 token.user_id = None
+INFO 2016-06-02 18:31:57,939 --------------------auth------------------
+INFO 2016-06-02 18:31:57,939 request.Get,{}
+INFO 2016-06-02 18:31:57,939 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:31:57,939 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:31:57,939 -----------Token Manage-----------
+INFO 2016-06-02 18:31:57,940 Token matching query does not exist.
+INFO 2016-06-02 18:31:57,942 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:31:57,942 New create token  record
+INFO 2016-06-02 18:31:57,942 token.user_id = None
+INFO 2016-06-02 18:39:43,696 --------------------auth------------------
+INFO 2016-06-02 18:39:43,696 request.Get,{}
+INFO 2016-06-02 18:39:43,697 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:39:43,697 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:40:42,124 --------------------auth------------------
+INFO 2016-06-02 18:40:42,124 request.Get,{}
+INFO 2016-06-02 18:40:42,125 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:40:42,125 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-02 18:43:18,350 --------------------auth------------------
+INFO 2016-06-02 18:43:18,351 request.Get,{}
+INFO 2016-06-02 18:43:18,351 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-02 18:43:18,351 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 04:55:24,618 --------------------auth------------------
+INFO 2016-06-03 04:55:24,641 request.Get,{}
+INFO 2016-06-03 04:55:24,642 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:55:24,642 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 04:55:53,348 --------------------auth------------------
+INFO 2016-06-03 04:55:53,348 request.Get,{}
+INFO 2016-06-03 04:55:53,348 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:55:53,348 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 04:55:53,348 -----------Token Manage-----------
+INFO 2016-06-03 04:55:53,349 Token matching query does not exist.
+INFO 2016-06-03 04:55:53,350 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:55:53,350 New create token  record
+INFO 2016-06-03 04:55:53,350 token.user_id = None
+INFO 2016-06-03 04:56:23,524 --------------------auth------------------
+INFO 2016-06-03 04:56:23,524 request.Get,{}
+INFO 2016-06-03 04:56:23,524 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:56:23,524 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 04:56:23,524 -----------Token Manage-----------
+INFO 2016-06-03 04:56:23,525 Token matching query does not exist.
+INFO 2016-06-03 04:56:23,526 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:56:23,526 New create token  record
+INFO 2016-06-03 04:56:23,526 token.user_id = None
+INFO 2016-06-03 04:57:00,361 --------------------auth------------------
+INFO 2016-06-03 04:57:00,361 request.Get,{}
+INFO 2016-06-03 04:57:00,361 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:57:00,361 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 04:57:00,361 -----------Token Manage-----------
+INFO 2016-06-03 04:57:00,362 Token matching query does not exist.
+INFO 2016-06-03 04:57:00,363 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 04:57:00,363 New create token  record
+INFO 2016-06-03 04:57:00,363 token.user_id = None
+INFO 2016-06-03 05:06:57,833 --------------------auth------------------
+INFO 2016-06-03 05:06:57,833 request.Get,{}
+INFO 2016-06-03 05:06:57,833 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:06:57,833 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 05:06:57,833 -----------Token Manage-----------
+INFO 2016-06-03 05:06:57,834 Token matching query does not exist.
+INFO 2016-06-03 05:06:57,835 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:06:57,835 New create token  record
+INFO 2016-06-03 05:06:57,835 token.user_id = None
+INFO 2016-06-03 05:12:59,915 --------------------auth------------------
+INFO 2016-06-03 05:12:59,915 request.Get,{}
+INFO 2016-06-03 05:12:59,915 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:12:59,915 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 05:12:59,915 -----------Token Manage-----------
+INFO 2016-06-03 05:12:59,916 Token matching query does not exist.
+INFO 2016-06-03 05:12:59,917 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:12:59,917 New create token  record
+INFO 2016-06-03 05:12:59,917 token.user_id = None
+INFO 2016-06-03 05:33:40,269 --------------------auth------------------
+INFO 2016-06-03 05:33:40,269 request.Get,{}
+INFO 2016-06-03 05:33:40,269 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:33:40,269 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 05:33:40,270 -----------Token Manage-----------
+INFO 2016-06-03 05:33:40,270 Token matching query does not exist.
+INFO 2016-06-03 05:33:40,271 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:33:40,271 New create token  record
+INFO 2016-06-03 05:33:40,271 token.user_id = None
+INFO 2016-06-03 05:44:50,929 --------------------auth------------------
+INFO 2016-06-03 05:44:50,930 request.Get,{}
+INFO 2016-06-03 05:44:50,930 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:44:50,930 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 05:44:50,930 -----------Token Manage-----------
+INFO 2016-06-03 05:44:50,931 Token matching query does not exist.
+INFO 2016-06-03 05:44:50,931 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:44:50,931 New create token  record
+INFO 2016-06-03 05:44:50,931 token.user_id = None
+INFO 2016-06-03 05:45:20,177 --------------------auth------------------
+INFO 2016-06-03 05:45:20,177 request.Get,{}
+INFO 2016-06-03 05:45:20,177 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:45:20,177 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 05:45:20,177 -----------Token Manage-----------
+INFO 2016-06-03 05:45:20,178 Token matching query does not exist.
+INFO 2016-06-03 05:45:20,178 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 05:45:20,178 New create token  record
+INFO 2016-06-03 05:45:20,179 token.user_id = None
+INFO 2016-06-03 08:05:25,368 --------------------auth------------------
+INFO 2016-06-03 08:05:25,388 request.Get,{}
+INFO 2016-06-03 08:05:25,388 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 08:05:25,388 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 08:05:25,388 -----------Token Manage-----------
+INFO 2016-06-03 08:05:25,389 Token matching query does not exist.
+INFO 2016-06-03 08:05:25,390 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 08:05:25,390 New create token  record
+INFO 2016-06-03 08:05:25,390 token.user_id = None
+INFO 2016-06-03 08:06:13,472 --------------------auth------------------
+INFO 2016-06-03 08:06:13,473 request.Get,{}
+INFO 2016-06-03 08:06:13,473 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 08:06:13,473 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 08:06:13,473 -----------Token Manage-----------
+INFO 2016-06-03 08:06:13,475 Token matching query does not exist.
+INFO 2016-06-03 08:06:13,477 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 08:06:13,477 New create token  record
+INFO 2016-06-03 08:06:13,477 token.user_id = None
+INFO 2016-06-03 08:07:17,991 --------------------auth------------------
+INFO 2016-06-03 08:07:17,991 request.Get,{}
+INFO 2016-06-03 08:07:17,992 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 08:07:17,992 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 08:07:17,992 -----------Token Manage-----------
+INFO 2016-06-03 08:07:17,992 Token matching query does not exist.
+INFO 2016-06-03 08:07:17,993 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 08:07:17,993 New create token  record
+INFO 2016-06-03 08:07:17,993 token.user_id = None
+INFO 2016-06-03 10:19:08,363 --------------------auth------------------
+INFO 2016-06-03 10:19:08,363 request.Get,{}
+INFO 2016-06-03 10:19:08,364 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:19:08,364 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 10:19:08,364 -----------Token Manage-----------
+INFO 2016-06-03 10:19:08,364 Token matching query does not exist.
+INFO 2016-06-03 10:19:08,365 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:19:08,365 New create token  record
+INFO 2016-06-03 10:19:08,365 token.user_id = None
+INFO 2016-06-03 10:19:37,638 --------------------auth------------------
+INFO 2016-06-03 10:19:37,638 request.Get,{}
+INFO 2016-06-03 10:19:37,638 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:19:37,638 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 10:19:37,638 -----------Token Manage-----------
+INFO 2016-06-03 10:19:37,639 Token matching query does not exist.
+INFO 2016-06-03 10:19:37,639 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:19:37,640 New create token  record
+INFO 2016-06-03 10:19:37,640 token.user_id = None
+INFO 2016-06-03 10:20:49,489 --------------------auth------------------
+INFO 2016-06-03 10:20:49,489 request.Get,{}
+INFO 2016-06-03 10:20:49,490 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:20:49,490 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 10:20:49,490 -----------Token Manage-----------
+INFO 2016-06-03 10:20:49,491 Token matching query does not exist.
+INFO 2016-06-03 10:20:49,491 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:20:49,491 New create token  record
+INFO 2016-06-03 10:20:49,491 token.user_id = None
+INFO 2016-06-03 10:22:40,002 --------------------auth------------------
+INFO 2016-06-03 10:22:40,002 request.Get,{}
+INFO 2016-06-03 10:22:40,002 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:22:40,002 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 10:22:40,003 -----------Token Manage-----------
+INFO 2016-06-03 10:22:40,003 Token matching query does not exist.
+INFO 2016-06-03 10:22:40,004 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:22:40,004 New create token  record
+INFO 2016-06-03 10:22:40,004 token.user_id = None
+INFO 2016-06-03 10:25:53,632 --------------------auth------------------
+INFO 2016-06-03 10:25:53,632 request.Get,{}
+INFO 2016-06-03 10:25:53,632 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:25:53,632 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 10:25:53,633 -----------Token Manage-----------
+INFO 2016-06-03 10:25:53,634 Token matching query does not exist.
+INFO 2016-06-03 10:25:53,635 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 10:25:53,635 New create token  record
+INFO 2016-06-03 10:25:53,635 token.user_id = None
+INFO 2016-06-03 10:28:13,160 https://oauth.taobao.com/authorize?redirect_uri=http%3A//diaobaoxia-xx-mysql.daoapp.io/auth&response_type=code&client_id=23322625
+INFO 2016-06-03 11:07:34,277 --------------------auth------------------
+INFO 2016-06-03 11:07:34,277 request.Get,{}
+INFO 2016-06-03 11:07:34,277 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 11:07:34,277 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 11:07:34,278 -----------Token Manage-----------
+INFO 2016-06-03 11:07:34,278 Token matching query does not exist.
+INFO 2016-06-03 11:07:34,279 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 11:07:34,279 New create token  record
+INFO 2016-06-03 11:07:34,279 token.user_id = None
+INFO 2016-06-03 12:55:40,034 --------------------auth------------------
+INFO 2016-06-03 12:55:40,035 request.Get,{}
+INFO 2016-06-03 12:55:40,035 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 12:55:40,035 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 12:55:40,035 -----------Token Manage-----------
+INFO 2016-06-03 12:55:40,036 Token matching query does not exist.
+INFO 2016-06-03 12:55:40,037 oauth_id=2222, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 12:55:40,037 New create token  record
+INFO 2016-06-03 12:55:40,037 token.user_id = None
+INFO 2016-06-03 12:59:37,679 --------------------auth------------------
+INFO 2016-06-03 12:59:37,679 request.Get,{}
+INFO 2016-06-03 12:59:37,679 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 12:59:37,679 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 12:59:37,679 -----------Token Manage-----------
+INFO 2016-06-03 12:59:37,680 Token matching query does not exist.
+INFO 2016-06-03 12:59:37,680 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 12:59:37,681 New create token  record
+INFO 2016-06-03 13:00:31,395 --------------------auth------------------
+INFO 2016-06-03 13:00:31,395 request.Get,{}
+INFO 2016-06-03 13:00:31,395 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 13:00:31,396 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 13:00:31,396 -----------Token Manage-----------
+INFO 2016-06-03 13:00:31,397 Token matching query does not exist.
+INFO 2016-06-03 13:00:31,398 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 13:00:31,398 New create token  record
+INFO 2016-06-03 13:00:47,471 --------------------auth------------------
+INFO 2016-06-03 13:00:47,471 request.Get,{}
+INFO 2016-06-03 13:00:47,471 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 13:00:47,471 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 13:00:47,471 -----------Token Manage-----------
+INFO 2016-06-03 13:00:47,472 Token matching query does not exist.
+INFO 2016-06-03 13:00:47,472 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 13:00:47,473 New create token  record
+INFO 2016-06-03 13:21:39,616 --------------------auth------------------
+INFO 2016-06-03 13:21:39,616 request.Get,{}
+INFO 2016-06-03 13:21:39,616 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 13:21:39,616 taobao token 2YotnFZFEjr1zCsicMWpAA
+INFO 2016-06-03 13:21:39,617 -----------Token Manage-----------
+INFO 2016-06-03 13:21:39,617 Token matching query does not exist.
+INFO 2016-06-03 13:21:39,618 oauth_id=123432, screen_name=wuwei, access_token=2YotnFZFEjr1zCsicMWpAA, expires_in=10
+INFO 2016-06-03 13:21:39,618 New create token  record
+INFO 2016-06-03 19:00:22,428 --------------------auth------------------
+INFO 2016-06-03 19:00:22,455 request.Get,{}
+INFO 2016-06-03 19:03:02,976 --------------------auth------------------
+INFO 2016-06-03 19:03:02,977 request.Get,{}
+INFO 2016-06-03 19:03:02,977 ---------------------data---------------------------------
+INFO 2016-06-03 19:05:30,471 --------------------auth------------------
+INFO 2016-06-03 19:05:30,471 request.Get,{}
+INFO 2016-06-03 19:05:30,471 ---------------------data---------------------------------
+INFO 2016-06-03 19:05:52,175 --------------------auth------------------
+INFO 2016-06-03 19:05:52,175 request.Get,{}
+INFO 2016-06-03 19:05:52,175 ---------------------data---------------------------------
+INFO 2016-06-03 20:23:21,928 --------------------auth------------------
+INFO 2016-06-03 20:23:21,939 request.Get,{}
+INFO 2016-06-03 20:23:21,939 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:23:21,939 taobao_user_nick = guzi
+INFO 2016-06-03 20:24:49,993 --------------------auth------------------
+INFO 2016-06-03 20:24:49,994 request.Get,{}
+INFO 2016-06-03 20:24:49,994 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:24:49,994 taobao_user_nick = guzi
+INFO 2016-06-03 20:29:03,821 --------------------auth------------------
+INFO 2016-06-03 20:29:03,821 request.Get,{}
+INFO 2016-06-03 20:29:03,821 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:29:03,821 taobao_user_nick = guzi
+INFO 2016-06-03 20:29:22,947 --------------------auth------------------
+INFO 2016-06-03 20:29:22,948 request.Get,{}
+INFO 2016-06-03 20:29:22,948 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:29:22,948 taobao_user_nick = guzi
+INFO 2016-06-03 20:37:01,909 --------------------auth------------------
+INFO 2016-06-03 20:37:01,909 request.Get,{}
+INFO 2016-06-03 20:37:01,909 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:37:01,909 taobao_user_nick = guzi
+INFO 2016-06-03 20:37:01,909 ------------create-new-record----------
+INFO 2016-06-03 20:37:31,416 --------------------auth------------------
+INFO 2016-06-03 20:37:31,417 request.Get,{}
+INFO 2016-06-03 20:37:31,417 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:37:31,417 taobao_user_nick = guzi
+INFO 2016-06-03 20:37:31,418 ------------create-new-record----------
+INFO 2016-06-03 20:54:01,350 --------------------auth------------------
+INFO 2016-06-03 20:54:01,350 request.Get,{}
+INFO 2016-06-03 20:54:01,350 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-03 20:54:01,350 taobao_user_nick = guzi
+INFO 2016-06-03 20:54:01,351 ------------create-new-record----------
+INFO 2016-06-06 07:10:23,279 --------------------auth------------------
+INFO 2016-06-06 07:10:23,293 request.Get,{}
+INFO 2016-06-06 07:10:23,293 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:10:23,293 taobao_user_nick = guzi
+INFO 2016-06-06 07:10:23,294 ------------create-new-record----------
+INFO 2016-06-06 07:18:44,617 --------------------auth------------------
+INFO 2016-06-06 07:18:44,617 request.Get,{}
+INFO 2016-06-06 07:18:44,617 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:18:44,617 taobao_user_nick = guzi
+INFO 2016-06-06 07:18:44,618 ------------create-new-record----------
+INFO 2016-06-06 07:19:10,822 --------------------auth------------------
+INFO 2016-06-06 07:19:10,823 request.Get,{}
+INFO 2016-06-06 07:19:10,823 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:19:10,823 taobao_user_nick = guzi
+INFO 2016-06-06 07:19:10,824 ------------create-new-record----------
+INFO 2016-06-06 07:20:47,722 --------------------auth------------------
+INFO 2016-06-06 07:20:47,722 request.Get,{}
+INFO 2016-06-06 07:20:47,722 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:20:47,722 taobao_user_nick = guzi
+INFO 2016-06-06 07:20:47,723 ------------create-new-record----------
+INFO 2016-06-06 07:31:24,749 --------------------auth------------------
+INFO 2016-06-06 07:31:24,749 request.Get,{}
+INFO 2016-06-06 07:31:24,751 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:31:24,751 taobao_user_nick = guzi
+INFO 2016-06-06 07:31:24,753 ------------create-new-record----------
+INFO 2016-06-06 07:33:43,668 --------------------auth------------------
+INFO 2016-06-06 07:33:43,668 request.Get,{}
+INFO 2016-06-06 07:33:43,668 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:33:43,668 taobao_user_nick = guzi
+INFO 2016-06-06 07:33:43,669 ------------create-new-record----------
+INFO 2016-06-06 07:34:42,702 --------------------auth------------------
+INFO 2016-06-06 07:34:42,702 request.Get,{}
+INFO 2016-06-06 07:34:42,703 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:34:42,703 taobao_user_nick = guzi
+INFO 2016-06-06 07:34:42,704 ------------create-new-record----------
+INFO 2016-06-06 07:34:52,312 --------------------auth------------------
+INFO 2016-06-06 07:34:52,312 request.Get,{}
+INFO 2016-06-06 07:34:52,312 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:34:52,312 taobao_user_nick = guzi
+INFO 2016-06-06 07:34:52,313 ------------create-new-record----------
+INFO 2016-06-06 07:35:07,929 --------------------auth------------------
+INFO 2016-06-06 07:35:07,929 request.Get,{}
+INFO 2016-06-06 07:35:07,929 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:35:07,929 taobao_user_nick = guzi
+INFO 2016-06-06 07:35:07,930 ------------create-new-record----------
+INFO 2016-06-06 07:35:38,180 --------------------auth------------------
+INFO 2016-06-06 07:35:38,180 request.Get,{}
+INFO 2016-06-06 07:35:38,180 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:35:38,180 taobao_user_nick = guzi
+INFO 2016-06-06 07:35:38,181 ------------create-new-record----------
+INFO 2016-06-06 07:40:38,074 --------------------auth------------------
+INFO 2016-06-06 07:40:38,074 request.Get,{}
+INFO 2016-06-06 07:40:38,074 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:40:38,074 taobao_user_nick = guzi
+INFO 2016-06-06 07:40:38,075 ------------create-new-record----------
+INFO 2016-06-06 07:43:09,182 --------------------auth------------------
+INFO 2016-06-06 07:43:09,182 request.Get,{}
+INFO 2016-06-06 07:43:09,182 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:43:09,182 taobao_user_nick = guzi
+INFO 2016-06-06 07:43:09,183 ------------create-new-record----------
+INFO 2016-06-06 07:43:44,287 --------------------auth------------------
+INFO 2016-06-06 07:43:44,288 request.Get,{}
+INFO 2016-06-06 07:43:44,288 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:43:44,288 taobao_user_nick = guzi
+INFO 2016-06-06 07:43:44,289 ------------create-new-record----------
+INFO 2016-06-06 07:44:03,793 --------------------auth------------------
+INFO 2016-06-06 07:44:03,793 request.Get,{}
+INFO 2016-06-06 07:44:03,793 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:44:03,793 taobao_user_nick = guzi
+INFO 2016-06-06 07:44:03,794 ------------create-new-record----------
+INFO 2016-06-06 07:44:50,662 --------------------auth------------------
+INFO 2016-06-06 07:44:50,662 request.Get,{}
+INFO 2016-06-06 07:44:50,662 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:44:50,662 taobao_user_nick = guzi
+INFO 2016-06-06 07:44:50,664 ------------create-new-record----------
+INFO 2016-06-06 07:51:26,723 --------------------auth------------------
+INFO 2016-06-06 07:51:26,723 request.Get,{}
+INFO 2016-06-06 07:51:26,723 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:51:26,723 taobao_user_nick = guzi
+INFO 2016-06-06 07:51:26,724 ------------create-new-record----------
+INFO 2016-06-06 07:55:52,090 --------------------auth------------------
+INFO 2016-06-06 07:55:52,091 request.Get,{}
+INFO 2016-06-06 07:55:52,091 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:55:52,091 taobao_user_nick = guzi
+INFO 2016-06-06 07:55:52,092 ------------create-new-record----------
+INFO 2016-06-06 07:56:16,915 --------------------auth------------------
+INFO 2016-06-06 07:56:16,915 request.Get,{}
+INFO 2016-06-06 07:56:16,915 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:56:16,915 taobao_user_nick = guzi
+INFO 2016-06-06 07:56:16,916 ------------create-new-record----------
+INFO 2016-06-06 07:56:44,057 --------------------auth------------------
+INFO 2016-06-06 07:56:44,057 request.Get,{}
+INFO 2016-06-06 07:56:44,058 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 07:56:44,058 taobao_user_nick = guzi
+INFO 2016-06-06 07:56:44,059 ------------create-new-record----------
+INFO 2016-06-06 09:22:52,074 --------------------auth------------------
+INFO 2016-06-06 09:22:52,074 request.Get,{}
+INFO 2016-06-06 09:22:52,074 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 09:22:52,074 taobao_user_nick = guzi
+INFO 2016-06-06 09:22:52,075 ------------create-new-record----------
+INFO 2016-06-06 09:24:27,842 --------------------auth------------------
+INFO 2016-06-06 09:24:27,842 request.Get,{}
+INFO 2016-06-06 09:24:27,842 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 09:24:27,843 taobao_user_nick = guzi
+INFO 2016-06-06 09:24:27,844 ------------create-new-record----------
+INFO 2016-06-06 09:25:49,133 --------------------auth------------------
+INFO 2016-06-06 09:25:49,133 request.Get,{}
+INFO 2016-06-06 09:25:49,133 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 09:25:49,133 taobao_user_nick = guzi
+INFO 2016-06-06 09:25:49,134 ------------create-new-record----------
+INFO 2016-06-06 09:34:43,566 --------------------auth------------------
+INFO 2016-06-06 09:34:43,566 request.Get,{}
+INFO 2016-06-06 09:34:43,567 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 09:34:43,567 taobao_user_nick = guzi
+INFO 2016-06-06 09:34:43,568 ------------create-new-record----------
+INFO 2016-06-06 10:08:05,338 --------------------auth------------------
+INFO 2016-06-06 10:08:05,338 request.Get,{}
+INFO 2016-06-06 10:08:05,338 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 10:08:05,338 taobao_user_nick = guzi
+INFO 2016-06-06 10:08:05,340 ------------create-new-record----------
+INFO 2016-06-06 13:18:03,111 --------------------auth------------------
+INFO 2016-06-06 13:18:03,111 request.Get,{}
+INFO 2016-06-06 13:18:03,111 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 13:18:03,111 taobao_user_nick = guzi
+INFO 2016-06-06 13:18:03,112 ------------create-new-record----------
+INFO 2016-06-06 13:21:38,916 --------------------auth------------------
+INFO 2016-06-06 13:21:38,916 request.Get,{}
+INFO 2016-06-06 13:21:38,916 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 13:21:38,916 taobao_user_nick = guzi
+INFO 2016-06-06 13:21:38,917 ------------create-new-record----------
+INFO 2016-06-06 13:28:02,292 --------------------auth------------------
+INFO 2016-06-06 13:28:02,292 request.Get,{}
+INFO 2016-06-06 13:28:02,292 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 13:28:02,292 taobao_user_nick = guzi
+INFO 2016-06-06 13:28:02,293 ------------create-new-record----------
+INFO 2016-06-06 13:32:27,268 --------------------auth------------------
+INFO 2016-06-06 13:32:27,268 request.Get,{}
+INFO 2016-06-06 13:32:27,268 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 13:32:27,268 taobao_user_nick = guzi
+INFO 2016-06-06 13:32:27,269 ------------create-new-record----------
+INFO 2016-06-06 13:41:52,046 --------------------auth------------------
+INFO 2016-06-06 13:41:52,046 request.Get,{}
+INFO 2016-06-06 13:41:52,046 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 13:41:52,046 taobao_user_nick = guzi
+INFO 2016-06-06 13:41:52,047 ------------create-new-record----------
+INFO 2016-06-06 16:29:04,472 --------------------auth------------------
+INFO 2016-06-06 16:29:04,483 request.Get,{}
+INFO 2016-06-06 16:29:04,484 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 16:29:04,484 taobao_user_nick = guzi
+INFO 2016-06-06 16:29:04,485 ------------create-new-record----------
+INFO 2016-06-06 16:33:51,823 --------------------auth------------------
+INFO 2016-06-06 16:33:51,823 request.Get,{}
+INFO 2016-06-06 16:33:51,824 ------------------create-token_record-in Token---------------------------------
+INFO 2016-06-06 16:33:51,824 taobao_user_nick = guzi
+INFO 2016-06-06 16:33:51,824 ------------create-new-record----------
+INFO 2016-06-06 17:47:06,700 --------------------auth------------------
+INFO 2016-06-06 17:47:06,700 request.Get,{}
+INFO 2016-06-06 17:47:06,700 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:47:06,700 taobao_user_nick = guzi
+INFO 2016-06-06 17:47:06,701 ------------create-new-record----------
+INFO 2016-06-06 17:49:26,937 --------------------auth------------------
+INFO 2016-06-06 17:49:26,937 request.Get,{}
+INFO 2016-06-06 17:49:26,937 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:49:26,937 taobao_user_nick = guzi
+INFO 2016-06-06 17:49:26,938 ------------create-new-record----------
+INFO 2016-06-06 17:51:27,404 --------------------auth------------------
+INFO 2016-06-06 17:51:27,405 request.Get,{}
+INFO 2016-06-06 17:51:27,405 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:51:27,405 taobao_user_nick = guzi
+INFO 2016-06-06 17:51:27,406 ------------create-new-record----------
+INFO 2016-06-06 17:52:55,743 --------------------auth------------------
+INFO 2016-06-06 17:52:55,743 request.Get,{}
+INFO 2016-06-06 17:52:55,743 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:52:55,743 taobao_user_nick = guzi
+INFO 2016-06-06 17:52:55,744 ------------create-new-record----------
+INFO 2016-06-06 17:53:43,838 --------------------auth------------------
+INFO 2016-06-06 17:53:43,838 request.Get,{}
+INFO 2016-06-06 17:53:43,838 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:53:43,838 taobao_user_nick = guzi
+INFO 2016-06-06 17:53:43,839 ------------create-new-record----------
+INFO 2016-06-06 17:54:45,936 --------------------auth------------------
+INFO 2016-06-06 17:54:45,936 request.Get,{}
+INFO 2016-06-06 17:54:45,937 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:54:45,937 taobao_user_nick = guzi
+INFO 2016-06-06 17:54:45,937 ------------create-new-record----------
+INFO 2016-06-06 17:55:16,116 --------------------auth------------------
+INFO 2016-06-06 17:55:16,117 request.Get,{}
+INFO 2016-06-06 17:55:16,117 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:55:16,117 taobao_user_nick = guzi
+INFO 2016-06-06 17:55:16,117 ------------create-new-record----------
+INFO 2016-06-06 17:56:19,385 --------------------auth------------------
+INFO 2016-06-06 17:56:19,385 request.Get,{}
+INFO 2016-06-06 17:56:19,385 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:56:19,385 taobao_user_nick = guzi
+INFO 2016-06-06 17:56:19,386 ------------create-new-record----------
+INFO 2016-06-06 17:57:06,690 --------------------auth------------------
+INFO 2016-06-06 17:57:06,690 request.Get,{}
+INFO 2016-06-06 17:57:06,691 ------------------create-token_record-in Token-----
+INFO 2016-06-06 17:57:06,691 taobao_user_nick = guzi
+INFO 2016-06-06 17:57:06,692 ------------create-new-record----------
+INFO 2016-06-06 18:03:50,623 --------------------auth------------------
+INFO 2016-06-06 18:03:50,623 request.Get,{}
+INFO 2016-06-06 18:03:50,623 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:03:50,623 taobao_user_nick = guzi
+INFO 2016-06-06 18:03:50,624 ------------create-new-record----------
+INFO 2016-06-06 18:06:15,864 --------------------auth------------------
+INFO 2016-06-06 18:06:15,864 request.Get,{}
+INFO 2016-06-06 18:06:15,864 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:06:15,864 taobao_user_nick = guzi
+INFO 2016-06-06 18:06:15,865 ------------create-new-record----------
+INFO 2016-06-06 18:08:17,751 --------------------auth------------------
+INFO 2016-06-06 18:08:17,751 request.Get,{}
+INFO 2016-06-06 18:08:17,751 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:08:17,751 taobao_user_nick = guzi
+INFO 2016-06-06 18:08:17,752 ------------create-new-record----------
+INFO 2016-06-06 18:12:06,819 --------------------auth------------------
+INFO 2016-06-06 18:12:06,819 request.Get,{}
+INFO 2016-06-06 18:12:06,820 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:12:06,820 taobao_user_nick = guzi
+INFO 2016-06-06 18:12:06,820 ------------create-new-record----------
+INFO 2016-06-06 18:13:37,107 --------------------auth------------------
+INFO 2016-06-06 18:13:37,107 request.Get,{}
+INFO 2016-06-06 18:13:37,107 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:13:37,107 taobao_user_nick = guzi
+INFO 2016-06-06 18:13:37,108 ------------create-new-record----------
+INFO 2016-06-06 18:14:49,288 --------------------auth------------------
+INFO 2016-06-06 18:14:49,288 request.Get,{}
+INFO 2016-06-06 18:14:49,289 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:14:49,289 taobao_user_nick = guzi
+INFO 2016-06-06 18:14:49,289 ------------create-new-record----------
+INFO 2016-06-06 18:15:03,874 --------------------auth------------------
+INFO 2016-06-06 18:15:03,874 request.Get,{}
+INFO 2016-06-06 18:15:03,875 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:15:03,875 taobao_user_nick = guzi
+INFO 2016-06-06 18:15:03,875 ------------create-new-record----------
+INFO 2016-06-06 18:15:10,455 --------------------auth------------------
+INFO 2016-06-06 18:15:10,455 request.Get,{}
+INFO 2016-06-06 18:15:10,455 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:15:10,455 taobao_user_nick = guzi
+INFO 2016-06-06 18:15:10,456 ------------create-new-record----------
+INFO 2016-06-06 18:22:43,981 --------------------auth------------------
+INFO 2016-06-06 18:22:43,981 request.Get,{}
+INFO 2016-06-06 18:22:43,981 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:22:43,982 taobao_user_nick = guzi
+INFO 2016-06-06 18:22:43,982 ------------create-new-record----------
+INFO 2016-06-06 18:25:17,628 --------------------auth------------------
+INFO 2016-06-06 18:25:17,629 request.Get,{}
+INFO 2016-06-06 18:25:17,629 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:25:17,629 taobao_user_nick = guzi
+INFO 2016-06-06 18:25:17,630 ------------create-new-record----------
+INFO 2016-06-06 18:25:37,722 --------------------auth------------------
+INFO 2016-06-06 18:25:37,722 request.Get,{}
+INFO 2016-06-06 18:25:37,722 ------------------create-token_record-in Token-----
+INFO 2016-06-06 18:25:37,723 taobao_user_nick = guzi
+INFO 2016-06-06 18:25:37,723 ------------create-new-record----------
+INFO 2016-06-08 10:13:15,579 --------------------auth------------------
+INFO 2016-06-08 10:13:15,590 request.Get,{}
+INFO 2016-06-08 10:13:15,590 ------------------create-token_record-in Token-----
+INFO 2016-06-08 10:13:15,590 taobao_user_nick = guzi
+INFO 2016-06-08 10:13:15,591 ------------create-new-record----------
+INFO 2016-06-08 11:59:37,404 --------------------auth------------------
+INFO 2016-06-08 11:59:37,450 request.Get,<QueryDict: {}>
+INFO 2016-06-08 14:49:12,079 --------------------auth------------------
+INFO 2016-06-08 14:49:12,096 request.Get,{}
+INFO 2016-06-08 14:49:12,096 ------------------create-token_record-in Token-----
+INFO 2016-06-08 14:49:12,096 taobao_user_nick = guzi
+INFO 2016-06-08 14:49:12,097 ------------create-new-record----------
+INFO 2016-06-08 19:14:58,898 --------------------auth------------------
+INFO 2016-06-08 19:14:58,898 request.Get,{}
+INFO 2016-06-08 19:14:58,898 ------------------create-token_record-in Token-----
+INFO 2016-06-08 19:14:58,898 taobao_user_nick = guzi
+INFO 2016-06-08 19:14:58,899 ------------create-new-record----------
+INFO 2016-06-08 19:56:14,750 --------------------auth------------------
+INFO 2016-06-08 19:56:14,751 request.Get,<QueryDict: {}>
+INFO 2016-06-08 20:13:31,739 --------------------auth------------------
+INFO 2016-06-08 20:13:31,741 request.Get,{}
+INFO 2016-06-08 20:13:31,741 ------------------create-token_record-in Token-----
+INFO 2016-06-08 20:13:31,741 taobao_user_nick = guzi
+INFO 2016-06-08 20:13:31,742 ------------create-new-record----------
+ERROR 2016-06-16 11:55:27,352 request.Get,<QueryDict: {}>
+INFO 2016-06-16 11:55:27,353 taobao_user_nick = guzi
+INFO 2016-06-16 11:55:27,354 ------------create-new-record----------
+ERROR 2016-06-16 11:57:26,419 request.Get,<QueryDict: {}>
+INFO 2016-06-16 11:57:26,419 taobao_user_nick = guzi
+INFO 2016-06-16 11:57:26,420 ------------create-new-record----------
+ERROR 2016-06-16 11:58:25,949 request.Get,<QueryDict: {}>
+INFO 2016-06-16 11:58:25,949 taobao_user_nick = guzi
+INFO 2016-06-16 11:58:25,950 ------------create-new-record----------
