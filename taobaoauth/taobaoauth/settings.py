@@ -54,7 +54,7 @@ ROOT_URLCONF = 'taobaoauth.urls'
 WSGI_APPLICATION = 'taobaoauth.wsgi.application'
 
 
-#
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -104,24 +104,24 @@ LOGGING = {
 import logging
 import logging.config
 logging.config.dictConfig(LOGGING)
-#
+
 # DATABASES = {
 #    'default': {
 #        'ENGINE': 'django.db.backends.sqlite3',
 #        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #    }
 # }
-#
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': os.environ['MYSQL_INSTANCE_NAME'],
-        'USER': os.environ['MYSQL_USERNAME'],
-        'PASSWORD': os.environ['MYSQL_PASSWORD'],
-        'HOST': os.environ['MYSQL_PORT_3306_TCP_ADDR'],
-        'PORT': os.environ['MYSQL_PORT_3306_TCP_PORT']
-    }
-}
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': os.environ['MYSQL_INSTANCE_NAME'],
+#         'USER': os.environ['MYSQL_USERNAME'],
+#         'PASSWORD': os.environ['MYSQL_PASSWORD'],
+#         'HOST': os.environ['MYSQL_PORT_3306_TCP_ADDR'],
+#         'PORT': os.environ['MYSQL_PORT_3306_TCP_PORT']
+#     }
+# }
 
 
 

@@ -18,7 +18,7 @@ class Migration(migrations.Migration):
                 ('code', models.IntegerField()),
                 ('expires_in', models.IntegerField()),
                 ('refresh_token', models.CharField(max_length=128)),
-                ('scope', models.CharField(max_length=16)),
+                ('scope', models.CharField(max_length=16, null=True)),
                 ('time', models.CharField(max_length=32)),
                 ('token_type', models.CharField(max_length=16)),
                 ('uid', models.CharField(max_length=128)),
