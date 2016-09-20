@@ -53,9 +53,7 @@ ROOT_URLCONF = 'taobaoauth.urls'
 
 WSGI_APPLICATION = 'taobaoauth.wsgi.application'
 
-import logging
-import logging.config
-logging.config.dictConfig(LOGGING)
+
 #
 LOGGING = {
     'version': 1,
@@ -103,6 +101,9 @@ LOGGING = {
         },
     }
 }
+import logging
+import logging.config
+logging.config.dictConfig(LOGGING)
 #
 # DATABASES = {
 #    'default': {
