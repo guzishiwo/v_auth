@@ -105,25 +105,23 @@ import logging
 import logging.config
 logging.config.dictConfig(LOGGING)
 
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': os.environ['MYSQL_INSTANCE_NAME'],
+        'USER': os.environ['MYSQL_USERNAME'],
+        'PASSWORD': os.environ['MYSQL_PASSWORD'],
+        'HOST': os.environ['MYSQL_PORT_3306_TCP_ADDR'],
+        'PORT': os.environ['MYSQL_PORT_3306_TCP_PORT']
+    }
+}
+
 # DATABASES = {
 #    'default': {
 #        'ENGINE': 'django.db.backends.sqlite3',
 #        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #    }
 # }
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': os.environ['MYSQL_INSTANCE_NAME'],
-#         'USER': os.environ['MYSQL_USERNAME'],
-#         'PASSWORD': os.environ['MYSQL_PASSWORD'],
-#         'HOST': os.environ['MYSQL_PORT_3306_TCP_ADDR'],
-#         'PORT': os.environ['MYSQL_PORT_3306_TCP_PORT']
-#     }
-# }
-
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
