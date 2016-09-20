@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y python-pip \
 
 
 RUN pip install django==1.7
+RUN pip install marshmallow
 COPY taobaoauth /usr/src/app/
 COPY init.sh /usr/src/app/
 RUN chmod +x /usr/src/app/init.sh

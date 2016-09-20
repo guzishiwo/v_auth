@@ -2,7 +2,7 @@
 #coding=utf-8
 
 from django.contrib import admin
-from .models import Token
+from jd.models import JdToken
 
 
-admin.site.register(Token)
+admin.site.register(JdToken)
