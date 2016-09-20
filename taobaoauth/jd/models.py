@@ -7,7 +7,6 @@ class JdToken(models.Model):
     code = models.IntegerField(null=False)
     expires_in = models.IntegerField(null=False)
     refresh_token = models.CharField(max_length=128, null=False)
-    scope = models.CharField(max_length=16, null=True)
     time = models.CharField(max_length=32, null=False)
     token_type = models.CharField(max_length=16, null=False)
     uid = models.CharField(max_length=128, null=False)
