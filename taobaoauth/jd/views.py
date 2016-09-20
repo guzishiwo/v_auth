@@ -17,7 +17,6 @@ def jd_auth(request):
         except:
             logger.error('use code exchange access_code is failed')
             logger.error('Caused by {0}'.format(request.GET))
-            logger.debug(' start clean taobao cookies ')
         jd_user_nick = urllib2.unquote(rsp_parms.user_nick.encode('utf-8'))
         logger.info('jd_user_nick = {0}'.format(jd_user_nick))
         logger.info('JD_token {0}'.format(rsp_parms))

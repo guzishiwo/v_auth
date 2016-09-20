@@ -2,7 +2,7 @@
 #coding=utf-8
 
 from django.contrib import admin
-from jd.models import JdToken
+from taobao.models import Token
 
 
-admin.site.register(JdToken)
+admin.site.register(Token)

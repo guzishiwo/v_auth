@@ -34,6 +34,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'jd',
     'taobao',
     'identity',
 )
@@ -52,6 +53,10 @@ ROOT_URLCONF = 'taobaoauth.urls'
 
 WSGI_APPLICATION = 'taobaoauth.wsgi.application'
 
+import logging
+import logging.config
+logging.config.dictConfig(LOGGING)
+#
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -98,14 +103,14 @@ LOGGING = {
         },
     }
 }
-
+#
 # DATABASES = {
-   # 'default': {
-   #     'ENGINE': 'django.db.backends.sqlite3',
-   #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-   # }
+#    'default': {
+#        'ENGINE': 'django.db.backends.sqlite3',
+#        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#    }
 # }
-
+#
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -117,9 +122,7 @@ DATABASES = {
     }
 }
 
-# import logging
-# import logging.config
-# logging.config.dictConfig(LOGGING)
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/

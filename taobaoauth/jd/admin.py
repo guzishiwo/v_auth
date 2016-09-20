@@ -5,4 +5,4 @@ from django.contrib import admin
 from .models import JdToken
 
 
-admin.site.register(Token)
+admin.site.register(JdToken)
